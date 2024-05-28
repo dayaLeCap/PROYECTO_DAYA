@@ -1,0 +1,10 @@
+git config --global user.email lemdayus@gmail.com
+git config --global user.name lemdayus
+git config --global -l
+ls
+git add .
+git status
+git commit -m " primer comit"
+git log --oneline --decorate --all --graph
+
+
